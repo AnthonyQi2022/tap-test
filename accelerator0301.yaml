@@ -1,0 +1,7 @@
+accelerator:
+  displayName: Simple Accelerator0301
+  description: Contains just a README
+  iconUrl: https://github.com/AnthonyQi2022/tap-test/blob/main/images/pikachu.jpg
+  tags:
+  - simple
+  - getting-started
