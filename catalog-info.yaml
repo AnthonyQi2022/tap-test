@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: tap-test
+  annotations:
+    github.com/project-slug: AnthonyQi2022/tap-test
+spec:
+  type: other
+  lifecycle: unknown
+  owner: AnthonyQi2022
